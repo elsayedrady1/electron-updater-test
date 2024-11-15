@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: electron-app-1.0.0-setup.exe
+    sha512: LGEGz/zAlFfXnqz0kd9zigSS/V5XilslgcD6fal2BJOhk41jk8Lqc7+hDmvAcGCkdE7lCoiwd52B3R2HtnOgIw==
+    size: 79103833
+path: electron-app-1.0.0-setup.exe
+sha512: LGEGz/zAlFfXnqz0kd9zigSS/V5XilslgcD6fal2BJOhk41jk8Lqc7+hDmvAcGCkdE7lCoiwd52B3R2HtnOgIw==
+releaseDate: '2024-11-14T22:43:47.678Z'
